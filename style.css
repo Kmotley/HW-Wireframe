@@ -15,7 +15,7 @@ header, nav{
 	margin: 10px auto;	
 	text-align: center;
 		color: #777;
-	line-height: 70px;
+	line-height: 100px;
 
 }
 
@@ -29,6 +29,7 @@ section{
 	margin: 10px 0 0 30px;
 	text-align: center;
 		color: #777;
+	line-height: 50px;
 
 }
 
@@ -40,7 +41,7 @@ aside{
 	margin: 10px 30px 0 0;
 	text-align: center;
 		color: #777;
-
+line-height: 50px;
 }
 
 footer{
@@ -51,6 +52,7 @@ footer{
 	margin: 315px auto;
 	text-align: center;
 		color: #777;
+	line-height: 100px;
 
 }
 
@@ -58,7 +60,7 @@ article{
 	width: 475px;
 	height: 185px;
 	background: #777;
-	margin: 60px auto;
+	margin: 30px auto;
 		text-align: center;
 	color: #ebebeb;
 	display: inline-block;
@@ -66,13 +68,22 @@ article{
 }
 
 .textBox{
-	clear: both;
 	width: 430px;
 	height: 50px;
 	background: #ebebeb;
 	color: #777;
 	display: inline-block;
-		margin: 5px auto;
 }
 
+#txtB1{
+	line-height: 50px;
+			margin: 10px auto 0 auto;
+
+}
+#txtB2{
+	line-height: 10px;
+			margin: 10px auto;
+
+
+}
 
