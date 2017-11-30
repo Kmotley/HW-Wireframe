@@ -31,6 +31,7 @@ nav{
 	float: left;
 	line-height: 90px;
 	text-align: center;
+	
 }
 
 nav li {
@@ -151,7 +152,7 @@ aside hr{
 	background: #000;
 }
 #box2{
-	background: #007bb6;
+	background: #FFF;
 }
 #box3{
 	background: #f4b200;
